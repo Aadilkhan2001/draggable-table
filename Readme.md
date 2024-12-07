@@ -8,3 +8,5 @@
 
 ### Why Live Server?
 The JavaScript in this project is modular, and the Live Server extension allows the browser to correctly handle and load the modules. Without it, modules might not work as expected due to browser restrictions.
+
+[draggable_demo.webm](https://github.com/user-attachments/assets/94643643-b519-4dab-8325-0dcf6cef2398)
